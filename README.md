@@ -1,0 +1,1 @@
+a C library that searches a given directory for a file
