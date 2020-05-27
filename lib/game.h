@@ -5,5 +5,5 @@
 #include<bits/stdc++.h>
 using namespace std;
 #define WHATEVER_H_INCLUDED
-    void foo(int add);
+    void foo(char *s,string str);
 #endif
