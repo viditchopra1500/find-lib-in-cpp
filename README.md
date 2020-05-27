@@ -1,7 +1,10 @@
  A C++ library that searches a given directory for a file. The directory may have nested sub-directories which contains the file. It returns the location of the file. If there are multiple files with the same name, the lib returns every file’s location.
  
 To use it first->
-1)#include the library in your file.
+
+//include the library in your file
+
+1)#include file.h             .
 
 Then to link the library to your file run the following command in terminal to create the executable file->
 
