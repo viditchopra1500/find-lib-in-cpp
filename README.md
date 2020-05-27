@@ -1,1 +1,1 @@
- A C library that searches a given directory for a file. The directory may have nested sub-directories which contains the file. It returns the location of the file. If there are multiple files with the same name, the lib returns every file’s location. 
+ A C++ library that searches a given directory for a file. The directory may have nested sub-directories which contains the file. It returns the location of the file. If there are multiple files with the same name, the lib returns every file’s location. 
