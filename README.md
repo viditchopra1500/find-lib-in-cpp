@@ -1,1 +1,1 @@
-A C library that searches a given file in a directory.
+ A C library that searches a given directory for a file. The directory may have nested sub-directories which contains the file. It return the location of the file. If there are multiple files with the same name, the lib every file’s location. 
