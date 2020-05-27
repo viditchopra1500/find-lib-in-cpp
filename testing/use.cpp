@@ -1,4 +1,4 @@
-#include "./../lib/game.h"
+#include "./../lib/find.h"
 #include <stdio.h> 
 #include <dirent.h> 
 #include<bits/stdc++.h>
