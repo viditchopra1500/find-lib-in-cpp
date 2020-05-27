@@ -1,1 +1,1 @@
-a C library that searches a given directory for a file
+A C library that searches a given file in a directory.
